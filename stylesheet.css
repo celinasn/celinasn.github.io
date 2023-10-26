@@ -1,0 +1,15 @@
+body {
+  background-image: url("restaurant.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+#results {
+  display:block;
+}
+
+.card-body {
+  border: 5px solid lightsteelblue;
+}
+
